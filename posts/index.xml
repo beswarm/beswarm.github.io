@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aurora</title>
+    <link>http://oneswarm.name/posts/</link>
+    <description>Recent content in Posts on Aurora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/beswarm&#34;&gt;beswarm&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Mon, 04 Mar 2019 15:44:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://oneswarm.name/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://oneswarm.name/posts/my-first-post/</link>
+      <pubDate>Mon, 04 Mar 2019 15:44:14 +0800</pubDate>
+      
+      <guid>http://oneswarm.name/posts/my-first-post/</guid>
+      <description>这是一个测试类</description>
+    </item>
+    
+  </channel>
+</rss>
