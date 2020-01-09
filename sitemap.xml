@@ -1,32 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://beswarm.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-03-04T15:44:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beswarm.github.io/</loc>
-    <lastmod>2019-03-04T15:44:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://beswarm.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://beswarm.github.io/posts/</loc>
-    <lastmod>2019-03-04T15:44:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://beswarm.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://example.org/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-12-20T12:00:06+09:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://example.org/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2019-10-09T11:44:14+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
