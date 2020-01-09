@@ -3,347 +3,347 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>http://beswarm.github.com/en/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="http://beswarm.github.com/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="http://beswarm.github.com/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>http://beswarm.github.com/en/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="http://beswarm.github.com/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="http://beswarm.github.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/css/</loc>
+    <loc>http://beswarm.github.com/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/html/</loc>
+    <loc>http://beswarm.github.com/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/markdown/</loc>
+    <loc>http://beswarm.github.com/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/markdown-syntax/</loc>
+    <loc>http://beswarm.github.com/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/</loc>
+    <loc>http://beswarm.github.com/en/posts/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="http://beswarm.github.com/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="http://beswarm.github.com/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>http://beswarm.github.com/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="http://beswarm.github.com/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="http://beswarm.github.com/en/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/syntax/</loc>
+    <loc>http://beswarm.github.com/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>http://beswarm.github.com/en/tags/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="http://beswarm.github.com/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="http://beswarm.github.com/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/themes/</loc>
+    <loc>http://beswarm.github.com/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/themes/</loc>
+    <loc>http://beswarm.github.com/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/series/themes-guide/</loc>
+    <loc>http://beswarm.github.com/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/privacy/</loc>
+    <loc>http://beswarm.github.com/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/rich-content/</loc>
+    <loc>http://beswarm.github.com/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/shortcodes/</loc>
+    <loc>http://beswarm.github.com/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/math-typesetting/</loc>
+    <loc>http://beswarm.github.com/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/amoji/</loc>
+    <loc>http://beswarm.github.com/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/bamoji/</loc>
+    <loc>http://beswarm.github.com/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/emoji/</loc>
+    <loc>http://beswarm.github.com/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/emoji-support/</loc>
+    <loc>http://beswarm.github.com/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/gamoji/</loc>
+    <loc>http://beswarm.github.com/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/namoji/</loc>
+    <loc>http://beswarm.github.com/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/diagram/</loc>
+    <loc>http://beswarm.github.com/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-viz/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-wavedrom/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-chartjs/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/diagram/</loc>
+    <loc>http://beswarm.github.com/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-mermaid/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/math/</loc>
+    <loc>http://beswarm.github.com/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-mathjax/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-katext/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-katext/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-flowchart/</loc>
+    <loc>http://beswarm.github.com/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/pt/dir/fourth/</loc>
+    <loc>http://beswarm.github.com/en/pt/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/pt/</loc>
+    <loc>http://beswarm.github.com/en/pt/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/pt/third/</loc>
+    <loc>http://beswarm.github.com/en/pt/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/pt/second/</loc>
+    <loc>http://beswarm.github.com/en/pt/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/pt/first/</loc>
+    <loc>http://beswarm.github.com/en/pt/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/archive/</loc>
+    <loc>http://beswarm.github.com/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="http://beswarm.github.com/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="http://beswarm.github.com/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/placeholder-text/</loc>
+    <loc>http://beswarm.github.com/en/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/text/</loc>
+    <loc>http://beswarm.github.com/en/tags/text/</loc>
     <lastmod>2019-03-09T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/about/</loc>
+    <loc>http://beswarm.github.com/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/about/"
+                href="http://beswarm.github.com/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="http://beswarm.github.com/en/about/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/</loc>
+    <loc>http://beswarm.github.com/en/gallery/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/"
+                href="http://beswarm.github.com/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/"
+                href="http://beswarm.github.com/en/gallery/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/photo/</loc>
+    <loc>http://beswarm.github.com/en/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/photo/"
+                href="http://beswarm.github.com/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/photo/"
+                href="http://beswarm.github.com/en/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/cartoon/</loc>
+    <loc>http://beswarm.github.com/en/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/cartoon/"
+                href="http://beswarm.github.com/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/cartoon/"
+                href="http://beswarm.github.com/en/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/hugo/</loc>
+    <loc>http://beswarm.github.com/en/categories/hugo/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/hugo/</loc>
+    <loc>http://beswarm.github.com/en/tags/hugo/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/syntax-highlight/</loc>
+    <loc>http://beswarm.github.com/en/posts/syntax-highlight/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
